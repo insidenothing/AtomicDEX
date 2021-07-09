@@ -1,5 +1,5 @@
 {
-        "coin": "KEVA",
+        "coin": "KVA",
         "name": "kevacoin",
         "fname": "KevaCoin",
         "bech32_hrp": "kva",
