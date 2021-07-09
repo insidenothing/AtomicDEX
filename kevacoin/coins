@@ -1,0 +1,11 @@
+{
+        "coin": "KEVA",
+        "name": "kevacoin",
+        "fname": "KevaCoin",
+        "bech32_hrp": "kva",
+        "rpcport": 9337,
+        "mm2": 1,
+        "protocol": {
+                "type": "UTXO"
+        }
+}
